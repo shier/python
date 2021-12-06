@@ -24,3 +24,5 @@ if __name__ == '__main__':
     r = input_number()
     primeter_num = get_primeter(r)
     print(primeter_num)
+    # primeter_num = get_Area(r)
+    # print(primeter_num)
